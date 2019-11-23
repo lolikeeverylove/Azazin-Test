@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF00E6</color>
+    <color name="colorPrimaryDark">#A80099</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textFirst">#32C8BE</color>
+    <color name="backGround">#2AD400FC</color>
+    <color name="zhabka">#6E008D</color>
+</resources>

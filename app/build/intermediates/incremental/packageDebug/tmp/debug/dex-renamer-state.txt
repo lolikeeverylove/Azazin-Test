@@ -1,0 +1,4 @@
+#Sat Aug 03 16:15:38 MSK 2019
+base.0=C\:\\Users\\girev\\AndroidStudioProjects\\ScreenDouble\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

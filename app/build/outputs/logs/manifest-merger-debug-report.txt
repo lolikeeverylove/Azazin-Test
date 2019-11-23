@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lolike/.gradle/caches/transforms-2/files-2.1/34643a6b7201238bee669ab39948c36d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lolike/.gradle/caches/transforms-2/files-2.1/92aefa5e36c2aecec60887be88af854f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/bb8b11d2c2d7f19d55539b098f00daae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/543019f3ae33a3d1c7741e96c376628f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/924c680ea84623c03f1df026690c324d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/540dedd43fc4183e14d8ba6088bc1e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/f25c173143799fae0f7bb2cf5773fe61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/83d5f2b3d4753109c553440dcb980a89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/a9997452baa9f3bc8c86f1fc379a202c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e26e154b69c46ca254fcbb63ee69240f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/276dfba2e387dae3f18ff69c13aa22ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ec56c615f844974ebf125fb073d3bc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d52d05de1e3ec8d771360cb07be3cde3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/96c9dc3ec8cbe372aa0fad12cbee32e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0198de68955095a66b61f4a019fa1288/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/2716c9c236d9d82b9ad2c63b812765f5/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/5a8dc0354f960391e527ec49cef04cb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0cf9bf5ea4b0a795f94e74e5e2fe1a43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d6d50d72a50a7639bb458febfc9236df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/4459f200657fd6d229c7f5d2d304416e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ab26475d5d00f0ff762199bd5c520df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/1d49433d6575c0786c252b8c421f9c03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/b0cde567771a5a5b69fed5f1e8b49ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e1e5ca220ebd7395e0313d2cc4434dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/541bf4f0041bfd9dc657d605646312b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d69333d1985cc21459b0af5e720d1e14/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lolike/.gradle/caches/transforms-2/files-2.1/92aefa5e36c2aecec60887be88af854f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lolike/.gradle/caches/transforms-2/files-2.1/92aefa5e36c2aecec60887be88af854f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/2716c9c236d9d82b9ad2c63b812765f5/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/2716c9c236d9d82b9ad2c63b812765f5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.Activity4
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:12:19-44
+activity#com.example.myapplication.Activity3
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:13:9-47
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:13:19-44
+activity#com.example.myapplication.Acrivity2
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:14:9-47
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:14:19-44
+activity#com.example.myapplication.MainActivity
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lolike/.gradle/caches/transforms-2/files-2.1/34643a6b7201238bee669ab39948c36d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lolike/.gradle/caches/transforms-2/files-2.1/34643a6b7201238bee669ab39948c36d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lolike/.gradle/caches/transforms-2/files-2.1/92aefa5e36c2aecec60887be88af854f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lolike/.gradle/caches/transforms-2/files-2.1/92aefa5e36c2aecec60887be88af854f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/bb8b11d2c2d7f19d55539b098f00daae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/bb8b11d2c2d7f19d55539b098f00daae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/543019f3ae33a3d1c7741e96c376628f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/543019f3ae33a3d1c7741e96c376628f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/924c680ea84623c03f1df026690c324d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/924c680ea84623c03f1df026690c324d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/540dedd43fc4183e14d8ba6088bc1e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/540dedd43fc4183e14d8ba6088bc1e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/f25c173143799fae0f7bb2cf5773fe61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/f25c173143799fae0f7bb2cf5773fe61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/83d5f2b3d4753109c553440dcb980a89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/83d5f2b3d4753109c553440dcb980a89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/a9997452baa9f3bc8c86f1fc379a202c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/a9997452baa9f3bc8c86f1fc379a202c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e26e154b69c46ca254fcbb63ee69240f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e26e154b69c46ca254fcbb63ee69240f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/276dfba2e387dae3f18ff69c13aa22ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/276dfba2e387dae3f18ff69c13aa22ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ec56c615f844974ebf125fb073d3bc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ec56c615f844974ebf125fb073d3bc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d52d05de1e3ec8d771360cb07be3cde3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d52d05de1e3ec8d771360cb07be3cde3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/96c9dc3ec8cbe372aa0fad12cbee32e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/96c9dc3ec8cbe372aa0fad12cbee32e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0198de68955095a66b61f4a019fa1288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0198de68955095a66b61f4a019fa1288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/lolike/.gradle/caches/transforms-2/files-2.1/e79f2c66153b6fc351963ade03606862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/2716c9c236d9d82b9ad2c63b812765f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/2716c9c236d9d82b9ad2c63b812765f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/5a8dc0354f960391e527ec49cef04cb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/5a8dc0354f960391e527ec49cef04cb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0cf9bf5ea4b0a795f94e74e5e2fe1a43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/0cf9bf5ea4b0a795f94e74e5e2fe1a43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d6d50d72a50a7639bb458febfc9236df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d6d50d72a50a7639bb458febfc9236df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/4459f200657fd6d229c7f5d2d304416e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/4459f200657fd6d229c7f5d2d304416e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ab26475d5d00f0ff762199bd5c520df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/7ab26475d5d00f0ff762199bd5c520df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/1d49433d6575c0786c252b8c421f9c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/1d49433d6575c0786c252b8c421f9c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/b0cde567771a5a5b69fed5f1e8b49ee9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/b0cde567771a5a5b69fed5f1e8b49ee9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e1e5ca220ebd7395e0313d2cc4434dc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/e1e5ca220ebd7395e0313d2cc4434dc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/541bf4f0041bfd9dc657d605646312b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/541bf4f0041bfd9dc657d605646312b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d69333d1985cc21459b0af5e720d1e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lolike/.gradle/caches/transforms-2/files-2.1/d69333d1985cc21459b0af5e720d1e14/AndroidManifest.xml:20:5-44
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		ADDED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lolike/AndroidStudioProjects/ScreenDouble/app/src/main/AndroidManifest.xml
